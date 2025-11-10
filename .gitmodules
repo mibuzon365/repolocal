@@ -1,0 +1,3 @@
+[submodule "mi-proyecto"]
+	path = mi-proyecto
+	url = https://github.com/mibuzon365/mi-proyecto.git
