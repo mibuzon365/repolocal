@@ -1,10 +1,9 @@
-name: Commit Logger
+name: Hello world Logger
 
 on:
   push:
     branches: ["main"]
-  workflow_dispatch: # Permet activació manual
-  
+   
 jobs:
   log-commits:
     runs-on: ubuntu-latest
